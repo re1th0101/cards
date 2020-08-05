@@ -1,0 +1,96 @@
+{
+    "mobiles":[
+        {
+            "details":{
+                "mobile":"Samsung Galaxy S20 Plus"
+                
+            },
+            "cost":"79,647",
+            "processor":"Exynos 990 processor",
+            "RAM":"8GB RAM",
+            "Battery":"6000 mAh"
+        },
+        {
+            "details":{
+                "mobile":"Samsung Galaxy Z Flip"
+                
+            },
+            "cost":"108,999",
+            "processor":"Qualcomm SM8150 Snapdragon 855 processor",
+            "RAM":"8GB RAM ,256GB internal storage",
+            "Battery":"3300 mAh"
+        },
+        {
+            "details":{
+                "mobile":"Samsung Galaxy S10 Lite"
+                
+            },
+            "cost":"39,999",
+            "processor":"Qualcomm Snapdragon 855 processor",
+            "RAM":"8GB RAM ,128GB internal storage",
+            "Battery":"4500 mAh"
+        },
+        {
+            "details":{
+                "mobile":"Oppo Reno3 Pro"
+                
+            },
+            "cost":"29,149",
+            "processor":"media Tek Helio P95 processor",
+            "RAM":"8GB RAM ,128GB internal storage",
+            "Battery":"4025 mAh"
+        },
+        {
+            "details":{
+                "mobile":"Oppo Reno4 Pro"
+                
+            },
+            "cost":"34,990",
+            "processor":"SnapDragon720G processor",
+            "RAM":"8GB RAM ,128GB internal storage",
+            "Battery":"4000 mAh"
+        },
+        {
+            "details":{
+                "mobile":"Oppo find X2"
+                
+            },
+            "cost":"34,990",
+            "processor":"Qualcomm SnapDragon865 processor",
+            "RAM":"128GB RAM ,256GB internal storage",
+            "Battery":"4200 mAh"
+        },
+        {
+            "details":{
+                "mobile":"Xiaomi Mi 10Pro"
+                
+            },
+            "cost":"50,000",
+            "processor":"Qualcomm SnapDragon865 processor",
+            "RAM":"128GB RAM ,128GB internal storage",
+            "Battery":"4500 mAh"
+        },
+        {
+            "details":{
+                "mobile":"Xiaomi Redmi K20 Pro"
+                
+            },
+            "cost":"24,075",
+            "processor":"Qualcomm SnapDragon855 processor",
+            "RAM":"6GB RAM ,128GB internal storage",
+            "Battery":"4000 mAh"
+        },
+        {
+            "details":{
+                "mobile":"Xiaomi Redmi K20"
+                
+            },
+            "cost":"21,990",
+            "processor":"Qualcomm SnapDragon730 processor",
+            "RAM":"6GB RAM ,64GB internal storage",
+            "Battery":"4000 mAh"
+        }
+        
+        
+    ]
+}
